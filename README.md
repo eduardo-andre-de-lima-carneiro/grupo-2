@@ -10,3 +10,5 @@ UPE - Poli - Engenharia de software (2025-2) - Tarefa git &amp; GitHub
 
 
 - paizim criou o arquivo paizim.txt
+
+- ladstone criou o arquivo ladstone.txt e atualizou o .gitignore
